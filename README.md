@@ -29,4 +29,6 @@ npm start
 ## Disclaimer
 This project is created for educational and personal testing purposes only. Using self-bots or automated scripts on user accounts violates Discord's Terms of Service (ToS) and can lead to account suspension or termination.
 The developer, **Youcef** (xgg.2), holds absolute no responsibility for any consequences, account bans, or damages that may arise from using this script. Run it entirely at your own risk.
+---
+
 ![random pic cuz why not](https://i.ibb.co/mVrKBh0T/IMG-20260708-162509.png)
