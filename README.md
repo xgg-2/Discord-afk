@@ -32,4 +32,4 @@ The developer, **Youcef** (xgg.2), holds absolute no responsibility for any cons
 
 ---
 
-![random pic cuz why not](https://i.ibb.co/mVrKBh0T/IMG-20260708-162509.png)
+![random pic cuz why not](https://i.ibb.co/mVrKBh0T/IMG-20260708-162509.png) .
